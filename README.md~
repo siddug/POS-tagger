@@ -25,5 +25,6 @@ Followed by each word and probability witht which it is tagged in one of the fiv
 
 USAGE2:
 use viterbi-pr.cpp
-to train the data and send the file witht training data appended with the test sentences 
+to train the data and send the file witht training data appended with the test sentences
+ 
 ==========
