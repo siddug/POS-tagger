@@ -1,0 +1,38 @@
+Correct: 2093
+Given: 2526
+Verb statistics
+Precision: 0.851648
+Recall: 0.756098
+F: 0.801034
+
+Adjective statistics
+Precision: 0.753012
+Recall: 0.862069
+F: 0.803859
+
+Adverb statistics
+Precision: 0.701493
+Recall: 0.465347
+F: 0.559524
+
+Noun statistics
+Precision: 0.870049
+Recall: 0.842926
+F: 0.856273
+
+Others statistics
+Precision: 0.816888
+Recall: 0.920856
+F: 0.865762
+
+Overall statistics
+Precision: 0.828583
+Recall: 0.828583
+F: 0.828583
+
+Confusion matrix: 
+0.851648 0 0.00274725 0.101648 0.043956 
+0.0361446 0.753012 0.0361446 0.126506 0.0481928 
+0.0149254 0 0.701493 0.0671642 0.216418 
+0.0903465 0.0123762 0.00123762 0.870049 0.0259901 
+0.0180266 0.00948767 0.0948767 0.0607211 0.816888 

@@ -1,0 +1,38 @@
+Correct: 2109
+Given: 2559
+V statistics
+Precision: 0.953795
+Recall: 0.659817
+F: 0.780027
+
+A statistics
+Precision: 0.982759
+Recall: 0.377483
+F: 0.545455
+
+R statistics
+Precision: 0.867647
+Recall: 0.536364
+F: 0.662921
+
+N statistics
+Precision: 0.837838
+Recall: 0.853994
+F: 0.845839
+
+O statistics
+Precision: 0.779856
+Recall: 0.955908
+F: 0.858954
+
+Overall statistics
+Precision: 0.82415
+Recall: 0.82415
+F: 0.82415
+
+Confusion matrix: 
+0.659817 0.0022831 0 0.114155 0.223744 
+0.00662252 0.377483 0 0.139073 0.476821 
+0 0 0.536364 0.0909091 0.372727 
+0.0151515 0 0 0.853994 0.130854 
+0.00176367 0 0.00793651 0.0343915 0.955908 
